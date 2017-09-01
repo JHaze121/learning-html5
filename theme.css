@@ -4,10 +4,10 @@ color: Green;
 background-color: black;
 }
 
-P { 
+P1, p2 { 
 font-family: "sans-serif";
-color: #000000;
-background-color: green;
+color: red;
+background-color: black;
 
 }
 
